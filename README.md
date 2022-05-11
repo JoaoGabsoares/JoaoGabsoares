@@ -1,4 +1,4 @@
-- Estudando Python
+- Estudando HTML, css
 
 <div align="center">
   <a href="https://github.com/JoaoGabsoares">
