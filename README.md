@@ -1,4 +1,4 @@
-- Estudando HTML, css
+- Estudando Análise e desenvolvimento de sistemas, Python, Javascript
 
 <div align="center">
   <a href="https://github.com/JoaoGabsoares">
