@@ -1,4 +1,8 @@
-- Estudando Análise e desenvolvimento de sistemas, Python, Javascript
+- Estudando Análise e desenvolvimento de sistemas.
+- Java
+- Python
+- Html
+- Css
 
 <div align="center">
   <a href="https://github.com/JoaoGabsoares">
