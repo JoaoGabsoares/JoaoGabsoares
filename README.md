@@ -1,6 +1,7 @@
 - Estudando Análise e desenvolvimento de sistemas.
 - Java
 - Python
+- Javascript 
 - Html
 - Css
 
